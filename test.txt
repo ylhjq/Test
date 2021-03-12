@@ -3,6 +3,7 @@ pulic Git{
 	int a = 8;
 	int i  = 1;
 	i = i * 6;
+	i -= 10;
 	System.out.println(i);
   }
 } 
