@@ -6,6 +6,6 @@ pulic Git{
 	i -= 10;
 	int b = 0;
 	System.out.println(i);
-	System.out.println("！！！！！")
+	System.out.println("！！！")
   }
 } 
