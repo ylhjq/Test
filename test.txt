@@ -4,5 +4,6 @@ pulic Git{
 	int i  = 1;
 	i = i * 6;
 	System.out.println(i);
+	System.out.println("！！！！！")
   }
 } 
